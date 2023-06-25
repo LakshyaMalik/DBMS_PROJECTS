@@ -1,4 +1,4 @@
-EXP 1
+--EXP 1
 create table DEPT(
      DEPTNO int,
      DNAME varchar(100),
